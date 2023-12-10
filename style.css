@@ -42,7 +42,8 @@ a{
     
 #Features{
     display: flex;
-    flex-direction: row;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
     background-color: whitesmoke;
     align-items: center;
     justify-content: space-around;
